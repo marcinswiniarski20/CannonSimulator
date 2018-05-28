@@ -43,7 +43,7 @@ public class LineChart extends JFrame
       plot.setRenderer(renderer); 
       this.setContentPane(chartPanel);
       this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-      this.setLocation(300 + 2*locationPoint, 200 + locationPoint);
+      this.setLocation(100 + 2*locationPoint, 50 + locationPoint);
       locationPoint +=30;
     }
     private XYDataset createDataset( ) {

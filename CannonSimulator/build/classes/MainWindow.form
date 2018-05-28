@@ -115,12 +115,14 @@
                           <Component id="maxHeightTimeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="angleLabel" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="angle" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="angleUnit" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="flightTimeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="flightTime" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="angleLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="angle" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="angleUnit" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="flightTimeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
